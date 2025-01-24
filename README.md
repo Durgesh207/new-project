@@ -1,4 +1,4 @@
 # new-project
 This is my first git reposetory
 <br>
-Auther - Durgesh Shinde
+Auther - <h2>Durgesh Shinde</h2>
